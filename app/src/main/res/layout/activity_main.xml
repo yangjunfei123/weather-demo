@@ -11,6 +11,8 @@
     <EditText
             android:id="@+id/et_search_input"
             android:layout_width="match_parent"
+            android:singleLine="true"
+            android:maxLength="20"
             android:layout_height="50dp"/>
 
     <android.support.v7.widget.RecyclerView
