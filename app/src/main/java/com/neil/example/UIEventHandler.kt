@@ -1,4 +1,4 @@
-package com.neil.example.weatherdemo.ui
+package com.neil.example
 
 import android.os.Handler
 

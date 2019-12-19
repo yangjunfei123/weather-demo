@@ -4,7 +4,7 @@ import android.graphics.Bitmap
 import android.graphics.BitmapFactory
 import android.text.TextUtils
 import android.util.Log
-import com.neil.example.weatherdemo.ui.UIEventHandler
+import com.neil.example.UIEventHandler
 import com.neil.example.weatherdemo.beans.HttpBaseBean
 import com.neil.example.weatherdemo.beans.WeatherErrorBean
 import org.json.JSONObject

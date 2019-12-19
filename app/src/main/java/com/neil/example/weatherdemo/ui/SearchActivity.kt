@@ -9,8 +9,10 @@ import android.text.TextWatcher
 import android.view.View
 import android.widget.EditText
 import android.widget.TextView
+import com.neil.example.UIEventHandler
 import com.neil.example.weatherdemo.R
 import com.neil.example.weatherdemo.beans.SearchLocationListBean
+import com.neil.example.weatherdemo.services.ImageLoader
 
 class SearchActivity : AppCompatActivity(), SearchContract.View {
 
